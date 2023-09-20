@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋  soy Edward Mosquera / EdwardM28 ✨ </h1> 
-
+<center>
 <p align="left">
 <a href="https://www.linkedin.com/in/edward-mosquera-53606426b/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.facebook.com/edwardalfonso.unatemosquera" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
@@ -28,6 +28,7 @@
   </a>
 </p>
 <br>
+</center>
 
 <h2>GitHub :octocat:</h2>
 <!--- stats & Trophy (start) -->
