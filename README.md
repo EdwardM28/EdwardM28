@@ -8,7 +8,7 @@
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
 
-<p align="left">
+<p align="center">
 🎓 ESTUDIANTE DE ADSO (Analisis y desarrollo de software)
 
 💻 Con ganas de aprender cada día mas
@@ -20,9 +20,9 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Tecnologias Conocidas**
+## <picture align=center><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Tecnologias Conocidas**
 <!--tech stack icons-->
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,css,html,js,nodejs,mysql,git,github,vscode" />
   </a>
