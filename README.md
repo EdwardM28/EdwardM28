@@ -22,7 +22,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,php,css,html,js,nodejs,mysql,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=php,css,html,js,nodejs,mysql,git,github,vscode" />
   </a>
 </p>
 <br>
