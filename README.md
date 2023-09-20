@@ -8,7 +8,7 @@
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
 
-<p align="center">
+<p align="left">
 🎓 ESTUDIANTE DE ADSO (Analisis y desarrollo de software)
 
 💻 Con ganas de aprender cada día mas
